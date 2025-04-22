@@ -3,5 +3,6 @@ This is the upto date list for all plugins and libraries for The J.A.R.V.I.S. Pr
 
 ## Index
 
-- [J.A.R.V.I.S. API Plugin](https://github.com/Silewis37/JARVIS-API-Library)
+- [J.A.R.V.I.S. API Library](https://github.com/Silewis37/JARVIS-API-Library)
+- [J.A.R.V.I.S. GitHub Plugin](https://github.com/Silewis37/JARVIS-GitHub-Plugin)
 - 
